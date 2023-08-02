@@ -5,11 +5,6 @@ import json
 import os
 import time
 
-
-#arayüz ü bitir
-#designerdan tasarla
-
-
 class Kur():
     def __init__(self, dolara, dolars, altina, altins):
         self.dolara=dolara
